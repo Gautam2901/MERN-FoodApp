@@ -56,6 +56,7 @@ Download the FoodFlyer App :
 ![11](https://github.com/user-attachments/assets/c392dd25-09b6-4701-8949-9a0b5e13dfaa)
 
 Project Summary
+
 Introduction
 As part of my web development training, I built a food delivery application using React.js, Node.js, Express.js, and MongoDB. The app offers features such as secure authentication, a dynamic menu, customizable cart options, and Stripe payment integration, providing a practical solution for modern food delivery.
 

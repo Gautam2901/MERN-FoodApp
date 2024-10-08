@@ -57,24 +57,24 @@ Download the FoodFlyer App :
 
 Project Summary:
 
-Introduction
+  Introduction
 
-As part of my web development training, I built a food delivery application using React.js, Node.js, Express.js, and MongoDB. The app offers features such as secure authentication, a dynamic menu, customizable cart options, and Stripe payment integration, providing a practical solution for modern food delivery.
+  As part of my web development training, I built a food delivery application using React.js, Node.js, Express.js, and MongoDB. The app offers features such as secure authentication, a dynamic menu, customizable    cart options, and Stripe payment integration, providing a practical solution for modern food delivery.
 
-Technologies Used
+  Technologies Used:
 
-Node.js: A server-side runtime environment that powers the app, handling requests and managing multiple users efficiently.
-Express.js: A framework for building server routes and APIs, managing user authentication, product selection, and orders.
-MongoDB: A NoSQL database storing user data, product details, and orders in real-time, ensuring instant updates.
-React.js: A JavaScript library for building a responsive user interface, handling the frontend logic for sign-ups, product displays, and cart management.
+  Node.js: A server-side runtime environment that powers the app, handling requests and managing multiple users efficiently.
+  Express.js: A framework for building server routes and APIs, managing user authentication, product selection, and orders.
+  MongoDB: A NoSQL database storing user data, product details, and orders in real-time, ensuring instant updates.
+  React.js: A JavaScript library for building a responsive user interface, handling the frontend logic for sign-ups, product displays, and cart management.
 
-Key Features
+  Key Features:
 
-User Authentication: Secure sign-ups and sign-ins, with token-based authentication for managing user sessions.
-Dynamic Menu: A React-based menu that allows users to explore products by category and interact with them in real-time.
-Cart Management: Users can add, update, or remove products from their cart, with real-time updates handled by MongoDB.
-Checkout and Payment: Users review their cart, add delivery details, and proceed to secure payment via Stripe.
+  User Authentication: Secure sign-ups and sign-ins, with token-based authentication for managing user sessions.
+  Dynamic Menu: A React-based menu that allows users to explore products by category and interact with them in real-time.
+  Cart Management: Users can add, update, or remove products from their cart, with real-time updates handled by MongoDB.
+  Checkout and Payment: Users review their cart, add delivery details, and proceed to secure payment via Stripe.
 
-Summary
+  Summary:
 
-This project showcases my skills in integrating React.js for a smooth UI, Node.js and Express.js for server-side logic, and MongoDB for real-time data handling, with a complete flow from user authentication to payment.
+  This project showcases my skills in integrating React.js for a smooth UI, Node.js and Express.js for server-side logic, and MongoDB for real-time data handling, with a complete flow from user authentication to    payment.

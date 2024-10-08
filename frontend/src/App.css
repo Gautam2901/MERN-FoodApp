@@ -1,0 +1,9 @@
+
+/* Container for the main app content */
+.app {
+    padding-top: 40px; /* This should match the height of the Navbar */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
